@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="No users found">
+  <circle cx="160" cy="108" r="92" fill="#f4f1ff" />
+  <circle cx="52" cy="52" r="12" fill="#dcd4ff" />
+  <circle cx="272" cy="168" r="13" fill="#cfe0ff" />
+  <path d="M246 54h40" stroke="#e3d9ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M36 168h40" stroke="#c7d5f7" stroke-width="6" stroke-linecap="round" />
+
+  <circle cx="132" cy="96" r="34" fill="#7c5cf5" />
+  <circle cx="132" cy="86" r="12" fill="#ffffff" fill-opacity=".92" />
+  <path d="M112 118c4-10 11-15 20-15s16 5 20 15" fill="#ffffff" fill-opacity=".92" />
+
+  <circle cx="196" cy="118" r="28" fill="#2451e0" />
+  <circle cx="196" cy="110" r="10" fill="#ffffff" fill-opacity=".9" />
+  <path d="M179 137c3.4-8.5 9.3-13 17-13s13.6 4.5 17 13" fill="#ffffff" fill-opacity=".9" />
+
+  <g transform="translate(214 46)">
+    <circle cx="24" cy="24" r="24" fill="#ffffff" stroke="#dbe3f2" stroke-width="2" />
+    <path d="M24 15v18M15 24h18" stroke="#16a34a" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <rect x="94" y="166" width="132" height="10" rx="5" fill="#e6e9f5" />
+  <rect x="118" y="184" width="84" height="10" rx="5" fill="#eef1f8" />
+</svg>

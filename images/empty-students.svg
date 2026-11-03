@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="No students found">
+  <circle cx="160" cy="108" r="92" fill="#eef4ff" />
+  <circle cx="258" cy="44" r="14" fill="#dcd4ff" />
+  <circle cx="48" cy="176" r="11" fill="#cfe0ff" />
+  <path d="M40 60h44" stroke="#c7d5f7" stroke-width="6" stroke-linecap="round" />
+  <path d="M240 172h40" stroke="#e3d9ff" stroke-width="6" stroke-linecap="round" />
+
+  <rect x="78" y="52" width="164" height="116" rx="16" fill="#ffffff" stroke="#dbe3f2" stroke-width="2" />
+  <rect x="78" y="52" width="164" height="30" rx="16" fill="#f7f9fd" />
+  <path d="M78 82h164" stroke="#dbe3f2" stroke-width="2" />
+  <circle cx="94" cy="67" r="4" fill="#2451e0" />
+  <circle cx="108" cy="67" r="4" fill="#7c5cf5" />
+  <circle cx="122" cy="67" r="4" fill="#c7d2fe" />
+
+  <circle cx="116" cy="122" r="22" fill="#2451e0" />
+  <path d="M116 114a7 7 0 1 1 0 14 7 7 0 0 1 0-14Z" fill="#ffffff" fill-opacity=".9" />
+  <path d="M104 138c2.6-6 7-9 12-9s9.4 3 12 9" fill="#ffffff" fill-opacity=".9" />
+
+  <rect x="150" y="106" width="72" height="9" rx="4.5" fill="#dbe3f2" />
+  <rect x="150" y="124" width="56" height="9" rx="4.5" fill="#e7ecf6" />
+  <rect x="150" y="142" width="64" height="9" rx="4.5" fill="#eef2f9" />
+
+  <g transform="translate(196 128)">
+    <circle cx="26" cy="26" r="26" fill="#ffffff" stroke="#dbe3f2" stroke-width="2" />
+    <circle cx="23" cy="23" r="9" fill="none" stroke="#6a3fe8" stroke-width="4" />
+    <path d="m30 30 7 7" stroke="#6a3fe8" stroke-width="4" stroke-linecap="round" />
+  </g>
+</svg>

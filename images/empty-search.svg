@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="No search results">
+  <circle cx="160" cy="106" r="88" fill="#eef4ff" />
+  <circle cx="60" cy="48" r="12" fill="#cfe0ff" />
+  <circle cx="264" cy="170" r="14" fill="#dcd4ff" />
+  <path d="M44 176h40" stroke="#c7d5f7" stroke-width="6" stroke-linecap="round" />
+
+  <rect x="92" y="46" width="104" height="124" rx="14" fill="#ffffff" stroke="#dbe3f2" stroke-width="2" />
+  <rect x="110" y="72" width="68" height="10" rx="5" fill="#dbe3f2" />
+  <rect x="110" y="94" width="52" height="10" rx="5" fill="#e7ecf6" />
+  <rect x="110" y="116" width="60" height="10" rx="5" fill="#eef2f9" />
+  <rect x="110" y="138" width="40" height="10" rx="5" fill="#f1f4fa" />
+
+  <g transform="translate(168 116)">
+    <circle cx="34" cy="34" r="34" fill="#ffffff" stroke="#dbe3f2" stroke-width="2" />
+    <circle cx="31" cy="31" r="13" fill="none" stroke="#2451e0" stroke-width="5" />
+    <path d="m41 41 10 10" stroke="#2451e0" stroke-width="5" stroke-linecap="round" />
+    <path d="m26 31 4 4 7-8" stroke="#7c5cf5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+</svg>
