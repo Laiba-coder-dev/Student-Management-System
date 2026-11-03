@@ -1,0 +1,23 @@
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Database backups
+*.bak
+*.dump
+*.sql.gz
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
