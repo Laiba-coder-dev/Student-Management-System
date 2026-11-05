@@ -21,6 +21,17 @@ EduCore is a PHP and MySQL student management application with separate Admin an
 - **PDF download:** Download PDF saves a file containing the front and back of the card. Print card opens the browser print dialog.
 - **Responsive layout:** the Admin and Student pages adapt to desktop and mobile screens.
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/screenshot2.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/screenshot1.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/screenshot3.png)
+
 ## Requirements
 
 - Windows with [XAMPP](https://www.apachefriends.org/) or an equivalent Apache/PHP/MySQL setup.
