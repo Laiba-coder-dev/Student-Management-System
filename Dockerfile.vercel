@@ -1,0 +1,14 @@
+
+FROM dunglas/frankenphp:1-php8.3
+
+WORKDIR /app
+
+RUN install-php-extensions pdo_mysql mbstring
+
+COPY . /app
+
+COPY Caddyfile /etc/caddy/Caddyfile
+
+EXPOSE 80
+
+CMD ["frankenphp", "run", "--config", "/etc/caddy/Caddyfile"]
