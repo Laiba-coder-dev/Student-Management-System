@@ -32,7 +32,7 @@
           <div>
             <h1 class="page-head__title">Overview Dashboard</h1>
             <p class="page-head__subtitle">
-              Welcome back, Olivia — here is what is happening across
+              Welcome back, Admin — here is what is happening across
               Northfield University today.
             </p>
           </div>
