@@ -82,6 +82,7 @@
             Sign in to open your administrator or student workspace.
           </p>
           <form class="auth-form" id="loginForm" novalidate>
+          <input type="hidden" name="_csrf" value="<?= htmlspecialchars(csrf_token(), ENT_QUOTES, 'UTF-8') ?>">
             <div class="field">
               <label class="field__label" for="loginEmail"
                 >Email address <span class="req">*</span></label
